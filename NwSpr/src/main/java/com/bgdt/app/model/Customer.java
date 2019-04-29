@@ -1,4 +1,4 @@
-package psit.bgdt.app;
+package com.bgdt.app.model;
 
 public class Customer {
 	private String name;
